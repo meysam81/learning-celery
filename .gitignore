@@ -104,3 +104,11 @@ venv.bak/
 .mypy_cache/
 static/*
 staticfiles/*
+djangoscrapy_project.iml
+encodings.xml
+inspectionProfiles
+libraries
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
