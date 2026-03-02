@@ -1,7 +1,7 @@
 amqp==2.3.2
 billiard==3.5.0.5
 celery==4.2.1
-kombu==4.2.2
+kombu==4.6.11
 pytz==2018.7
 redis==3.0.1
 six==1.12.0
